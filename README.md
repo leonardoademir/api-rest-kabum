@@ -4,9 +4,7 @@ O KaBuM necessita realizar cotações de fretes em suas transportadoras parceira
 
 ### :bookmark_tabs: **Funcionalidades**
 
-- **Validação de altura máxima e mínima para cada opção de frete
-** 
-- **Gestão de capturas:** cadastrar, atualizar e listar destinatários cadastrados.
+- **Validação de altura máxima e mínima para cada opção de frete** 
 - **Validação de largura máxima e mínima para cada opção de frete**
 - **Validação se o peso do produto é maior que 0.**
 
